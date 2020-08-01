@@ -5,7 +5,7 @@ import com.userfront.domain.User;
 import javax.persistence.*;
 
 /**
- * Created by z00382545 on 10/20/16.
+ Created by suneel jain on 30/07/2020.
  */
 
 @Entity

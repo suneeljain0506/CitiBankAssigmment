@@ -3,7 +3,7 @@ package com.userfront.domain.security;
 import org.springframework.security.core.GrantedAuthority;
 
 /**
- * Created by z00382545 on 10/20/16.
+ * Created by suneel jain on 30/07/2020.
  */
 public class Authority implements GrantedAuthority{
 
